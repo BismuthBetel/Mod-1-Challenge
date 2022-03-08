@@ -18,10 +18,8 @@ https://bismuthbetel.github.io/Mod-1-Challenge/
 
 ## Badges
 
-[HTML Badge] (https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-
-
-[CSS Badge] (https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![HTML-239120 Badge](https://user-images.githubusercontent.com/97366538/157144164-92469c7b-00cd-43df-87fb-4b47f0edf1b0.svg)
+![CSS-239120 Badge](https://user-images.githubusercontent.com/97366538/157144352-16f156c0-3b24-4e17-9067-c5f87e34c559.svg)
 
 ## Contribution
 
